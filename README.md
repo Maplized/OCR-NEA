@@ -53,4 +53,4 @@ And thanks Jacob for the skibid code :3
 > [!NOTE]
 > Please refer to the licenses in the Calculator's <ins>ABOUT</ins> section
 
-There are multiple licenses in this program, please refer to the program
+There are multiple licenses, please refer to the program
