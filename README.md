@@ -41,3 +41,16 @@ Move the `images` folder to the `C:\` file location
 
 ### Run it!
 Once you've completed these steps, just run `NEA Scientific Calculator.py`!
+
+# Credits
+> [!NOTE]
+> Please refer to the Calculator's <ins>ABOUT</ins> section on the credits display
+
+**Just wanna thank my mate Callum for giving me the essentail feedback for the scientific calculator! This program would've been very different without his help!!**
+And thanks Jacob for the skibid code :3
+
+# Licenses
+> [!NOTE]
+> Please refer to the licenses in the Calculator's <ins>ABOUT</ins> section
+
+There are multiple licenses in this program, please refer to the program
