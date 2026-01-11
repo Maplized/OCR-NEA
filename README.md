@@ -9,7 +9,7 @@ _This project is stored here for archives_
 > [!WARNING]
 > **This program uses alot of libraries and may require some for you to manually install**
 > 
-> With that in mind, this is a risk that some libaries may no longer work anymore
+> With that in mind, there is a risk that some libaries may no longer work anymore
 
 > [!CAUTION]
 > Some code in the program (which is Developer Mode) <ins>are able to **dox your approximate location**</ins>. Additionally, it can open tabs of brainrot 2024 ish YouTube videos or Instagram reels on your computer
