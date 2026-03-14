@@ -18,7 +18,7 @@ _This project is stored here for archives_
 > 
 > *Why you may ask? You can thank one of my friends who suggested the "skibidi code" easter eggs :3*
 
-### Libaries
+### 1. Libaries
 You will need the following libraries:
 - `ip2geotools`
 - `geopy`
@@ -33,7 +33,7 @@ You will need the following libraries:
 - `numpy`
 - `random`
 
-### Images
+### 2. Images
 As you will download the code, you will have a folder called `images`.
 *This, as the name suggests, has all the images needed for the program*
 
@@ -41,7 +41,7 @@ Move the `images` folder to the `C:\` file location
 > [!IMPORTANT]
 > **This must be in the `C:\` file location, otherwise images will not render**
 
-### Run it!
+### 3. Run it!
 Once you've completed these steps, just run `NEA Scientific Calculator.py`!
 
 # Credits
